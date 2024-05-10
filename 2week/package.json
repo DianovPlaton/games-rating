@@ -1,0 +1,10 @@
+{
+  "name": "2week",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
